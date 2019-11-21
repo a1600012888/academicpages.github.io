@@ -13,10 +13,10 @@ I am a last-year undergradutate in School of EECS at Peking University, majoring
 This winter, I will apply for Ph.D.
 
 **Research topics**
-* Computer vision and deep learning, especially visual recognitions, maniuplating images.
-* Efficient learning and inference. Speed up the training of NNs.  AutoML, NAS for light-weight NNs.
+* Visual recognitaion, Image manipulation.
+* Model accleration(Inference).
 * Dynamic networks.
-* Understanding the relationship between data and current deep models.
+* Understanding the prior of current deep learning models.
 
 
 # News
