@@ -31,6 +31,8 @@ This winter, I will apply for Ph.D.
 
 # Publications
 ----
+**[Domain-Aware Dynamic Networks](https://arxiv.org/pdf/1911.13237.pdf)**, **Tianyuan Zhang**, Bichen Wu, Xin Wang, Joseph Gonzalez, Kurt Keutzer. Under review.
+
 **[Objects365: A Large-scale, High-quality Dataset for Object Detection](http://openaccess.thecvf.com/content_ICCV_2019/papers/Shao_Objects365_A_Large-Scale_High-Quality_Dataset_for_Object_Detection_ICCV_2019_paper.pdf)**, Shuai Shao\*, Zeming Li\*, **Tianyuan Zhang**\*, Chao Peng\*, Gang Yu, Xiangyu Zhang, Jing Li, Jian Sun. (*equal contribution) ICCV, 2019
 
 **[You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle](https://arxiv.org/abs/1905.00877)**. 
