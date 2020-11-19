@@ -21,6 +21,8 @@ I am a last-year undergradutate in School of EECS at Peking University, majoring
 
 # News
 ----
+**[November, 2020]** We developed the first **real-time flow based video frame interpolation** methods with stoa performance, named **RIFE**, see our demo here: [RIFE](https://rife-vfi.github.io/).
+
 **[September, 2019]** [YOPO](https://arxiv.org/abs/1905.00877) was accepted by **NeurIPS19**. 
 
 **[July, 2019]**  One paper accepted by **ICCV19**. 
@@ -31,7 +33,9 @@ I am a last-year undergradutate in School of EECS at Peking University, majoring
 
 # Publications
 ----
-**[Domain-Aware Dynamic Networks](https://arxiv.org/pdf/1911.13237.pdf)**, **Tianyuan Zhang**, Bichen Wu, Xin Wang, Joseph Gonzalez, Kurt Keutzer. Under review.
+**[RIFE: Real-Time Intermediate Flow Estimation for Video Frame Interpolation](https://arxiv.org/abs/2011.06294)**, Zhewei Huang, **Tianyuan Zhang**, Wen Heng, Boxin Shi, Shuchang Zhou. [[project page](https://rife-vfi.github.io/)], [[code](https://github.com/hzwer/arXiv2020-RIFE)]  arXiv preprint
+
+**[Domain-Aware Dynamic Networks](https://arxiv.org/pdf/1911.13237.pdf)**, **Tianyuan Zhang**, Bichen Wu, Xin Wang, Joseph Gonzalez, Kurt Keutzer. arXiv preprint
 
 **[Objects365: A Large-scale, High-quality Dataset for Object Detection](http://openaccess.thecvf.com/content_ICCV_2019/papers/Shao_Objects365_A_Large-Scale_High-Quality_Dataset_for_Object_Detection_ICCV_2019_paper.pdf)**, Shuai Shao\*, Zeming Li\*, **Tianyuan Zhang**\*, Chao Peng\*, Gang Yu, Xiangyu Zhang, Jing Li, Jian Sun. (*equal contribution) ICCV, 2019
 
