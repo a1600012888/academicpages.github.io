@@ -21,7 +21,7 @@ I am a last-year undergradutate in School of EECS at Peking University, majoring
 
 # News
 ----
-**[November, 2020]** We developed the first **real-time flow based video frame interpolation** methods with stoa performance, named **RIFE**, see our demo here: [RIFE](https://rife-vfi.github.io/).
+**[November, 2020]** We developed the first **real-time flow based video frame interpolation** methods with sota performance, named **RIFE**, see our demo here: [RIFE](https://rife-vfi.github.io/).
 
 **[September, 2019]** [YOPO](https://arxiv.org/abs/1905.00877) was accepted by **NeurIPS19**. 
 
