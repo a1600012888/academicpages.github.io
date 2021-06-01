@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a last-year undergradutate in School of EECS at Peking University, majoring in Computer Science advised by [Prof. Zhanxing Zhu](https://sites.google.com/view/zhanxingzhu/). I spent two years of my undergraduate life at [Megvii Inc.(Face++)](https://megvii.com) as a research intern mentored by [Dr. Xiangyu Zhang](https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=zh-CN). Later I joined Microsoft Research Asia as a research intern.  
-
+I am an incoming master student in Robotics Institue at Carnegie Mellon University. Previously, I finished my undergraduate in School of EECS at Peking University, majoring in Computer Science advised by [Prof. Zhanxing Zhu](https://sites.google.com/view/zhanxingzhu/). I spent two years of my undergraduate life at [Megvii Inc.(Face++)](https://megvii.com) as a research intern mentored by [Dr. Xiangyu Zhang](https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=zh-CN). Later I joined Microsoft Research Asia as a research intern.  
 
 
 **Research topics**
-* Visual recognitaion, Image manipulation.
-* Model accleration(Inference).
-* Dynamic networks.
+* Visual recognitaion.
+* Visual content creation/editing. 
+* Autonomous Driving.
 * Understanding the prior of current deep learning models.
 
 
